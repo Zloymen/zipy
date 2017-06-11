@@ -1,0 +1,117 @@
+2017-06-11 16:17:49 INFO  App:24 - logger configure!
+2017-06-11 16:17:49 INFO  App:27 - bruteForce run!
+2017-06-11 16:17:49 INFO  BruteForce:84 - end run BruteForce!!!
+2017-06-11 16:18:53 INFO  WorkerThread:78 -  work new. password = 03
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:54 INFO  WorkerThread:78 -  work new. password = 31
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:55 INFO  WorkerThread:78 -  work new. password = 14
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:55 INFO  WorkerThread:78 -  work new. password = 69
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:55 INFO  WorkerThread:78 -  work new. password = 42
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:55 INFO  WorkerThread:78 -  work new. password = 68
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:55 INFO  WorkerThread:78 -  work new. password = 50
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 18
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 09
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 06
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 70
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 01
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 53
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 74
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 61
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 17
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 71
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 77
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2017-06-11 16:18:56 INFO  WorkerThread:78 -  work new. password = 62
+java.io.IOException: ERROR response code 503
+	at zipy.co.il.WorkerThread.run(WorkerThread.java:72)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
